@@ -1,0 +1,69 @@
+"id","id_company_group","abbrev","name","active","equivalence_type","equivalence_factor"
+4,257,LTÇ,Lotação,true,,
+6,1,R$/TON,Reais por Toneladas,true,,
+7,612,KG,Quilo,true,,
+9,612,M³,Metro cubico,true,,
+10,714,Frete M³,Frete Metro Cubico,true,,
+11,714,Frete Fixo,Por Entrega,true,,
+13,918,KG,Quilograma,true,,
+15,926,KG,Quilograma,true,,
+16,926,LT,Litro,true,,
+17,926,CL,Carga Lotação,true,,
+18,1012,R$,Reais por Máquinas,true,,
+20,1088,M³,Metro Cubico ,true,,
+21,1088,Lotação,Lotação,true,,
+2,140,TON,Tonelada,true,KG,1000.0000
+22,1191,Ton,Tonelada,true,KG,1000.0000
+23,1142,Saca 60 Kg,Saca 60 Kg,true,,
+24,1142,Kg,Quilograma,true,,
+5,1,TON,TON,true,KG,1000.0000
+1,257,TON,Tonelada,true,KG,1000.0000
+3,284,TON,Tonelada,true,KG,1000.0000
+25,1142,Ton,Tonelada,true,KG,1000.0000
+27,1272,VIAGEM,VIAGEM,true,TRIP,
+28,1280,TON,Tonelada,true,KG,1000.0000
+29,1302,TON,TONELADA,true,KG,1000.0000
+26,1272,TON,TONELADA,false,KG,1000.0000
+30,1303,VIAGEM,VIAGEM,false,TRIP,
+32,1303,KM,Quilometragem,true,,
+31,1303,M³,METRO CUBICO,false,,
+33,1303,m³  ,metro cubico,true,,
+34,1350,TON,TONELADAS,true,KG,1000.0000
+35,1352,Kg,Quilograma,true,KG,1000.0000
+36,1352,Ton,Tonela,true,KG,1000.0000
+37,1366,Viagem,Viagem,true,TRIP,
+38,1366,KM,QUILOMETRAGEM,true,,
+39,1376,TON,TONELADA,true,KG,1000.0000
+40,1377,TON,TONELADA,true,KG,1000.0000
+41,1385,TON,TONELADA,true,KG,1000.0000
+42,1387,TON,TONELADA,true,KG,1000.0000
+43,1389,TON,TONELADA,true,KG,1000.0000
+45,1352,VIAGEM,VIAGEM,true,TRIP,
+46,1398,Ton,Tonelada,true,KG,1000.0000
+47,1398,KG,Quilograma,true,KG,1.0000
+48,1419,TON,TONELADA,true,KG,1000.0000
+49,1383,TON,Tonelada,true,KG,1000.0000
+44,1383,Teste,Teste,false,KG,1000.0000
+50,1398,Viagem,Viagem,true,TRIP,
+51,1445,TON,Tonelada,true,KG,1000.0000
+52,1043,Trans,Transportador,true,TRIP,
+53,1443,Viagem,Viagem,true,TRIP,
+54,1443,Ton,TONELADA,true,KG,1000.0000
+55,1443,m³  ,metro cubico,true,,
+56,1443,Kg,Quilograma,true,KG,1.0000
+57,1443,Diária,Diária,true,,
+58,1448,Ton,Tonelada,true,KG,1000.0000
+59,1482,Ton,Tonelada,true,KG,1000.0000
+60,1512,Tonelada,Tonelada,true,KG,1000.0000
+61,1505,TON,Tonelada,true,KG,1000.0000
+63,1548,Viagem,Viagem,true,TRIP,
+65,1548,TON,Tonelada,true,KG,1000.0000
+64,1548,KG,Quilograma,true,KG,1.0000
+66,1512,Viagem,Viagem,true,TRIP,
+67,1561,TON,TONELADA,true,KG,1000.0000
+68,1561,KM,KM,true,,
+8,612,TON,Tonelada,true,KG,1000.0000
+12,918,TON,Tonelada,true,KG,1000.0000
+14,926,Ton,Tonela,true,KG,1000.0000
+19,1088,TON,Tonelada,true,KG,1000.0000
+62,1539,TON,TONELADA,true,KG,1000.0000

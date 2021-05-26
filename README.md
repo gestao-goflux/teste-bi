@@ -29,11 +29,11 @@ Os arquivos CSV seguem a seguinte lógica:
 
 **OfferWinner** => Relação de transportadores vencedores de determinadas ofertas.
 
-**OfferBids** => Relação de lances de transportadores de ofertas.
+**OfferBids** => Relação de lances de transportadores em ofertas.
 
 **Address** => Informações de endereço.
 
-**Place** => Tabela com referência circular contendo cidades, seus estados e pais.
+**Place** => Tabela com referência circular contendo cidades, seus estados e país.
 
 **TradingUnit** => Unidade de negociação, utilizada para informar ao transportador a unidade de medida, entre outras informações.
 
@@ -43,7 +43,9 @@ O prazo de entrega é de 7 dias corridos, contados a partir do recebimento deste
 
 
 ## Entrega
-Deve ser disponibilizado um link para visualização do teste, no PowerBI ou outra ferramenta semelhante. Este link deve ser enviado como resposta no e-mail onde este teste foi recebido.
+Deve ser disponibilizado um link para visualização do teste, no PowerBI ou outra ferramenta semelhante.
+
+Este link deve ser enviado como resposta no e-mail onde este teste foi recebido.
 
 
 ## Considerações Finais
